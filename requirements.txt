@@ -1,0 +1,8 @@
+# Core pipeline (parse + find + rank) needs NOTHING here — it is pure Python stdlib.
+# These are only for the optional extras:
+
+streamlit>=1.30         # the demo UI (app.py)
+
+# Optional, only if you run `--scorer llm` (the model-swap path):
+# openai>=1.0
+# anthropic>=0.39

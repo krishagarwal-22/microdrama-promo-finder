@@ -1,0 +1,2917 @@
+{
+  "scorer": "heuristic",
+  "n_episodes": 50,
+  "n_promos": 97,
+  "promos": [
+    {
+      "episode": 38,
+      "segments": [
+        {
+          "episode": 38,
+          "start": "00:40.00",
+          "end": "01:27.91",
+          "start_s": 40.0,
+          "end_s": 87.91
+        }
+      ],
+      "duration_s": 47.9,
+      "score": 93.4,
+      "parts": {
+        "hook": 1.0,
+        "cliffhanger": 1.0,
+        "standalone": 0.85,
+        "intensity": 0.106
+      },
+      "hook": "Do you even know what happened to me?",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "Dramatic cut to black.",
+      "why": "hook 1.00, cliff 1.00, stands alone 0.85, intensity 0.11  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 5,
+        "resonance": 40.0
+      },
+      "logline": "A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal the start of Rupert's nuptials and her impending execution."
+    },
+    {
+      "episode": 18,
+      "segments": [
+        {
+          "episode": 18,
+          "start": "02:38.00",
+          "end": "03:12.00",
+          "start_s": 158.0,
+          "end_s": 192.0
+        }
+      ],
+      "duration_s": 34.0,
+      "score": 90.2,
+      "parts": {
+        "hook": 0.967,
+        "cliffhanger": 1.0,
+        "standalone": 0.85,
+        "intensity": 0.3
+      },
+      "hook": "Someone wanted us out.",
+      "hook_desc": "dialogue · ALEXANDER",
+      "cliffhanger": "Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable resolve, the swelling score echoing a vow of vengeance into the final cut to black.",
+      "why": "hook 0.97, cliff 1.00, stands alone 0.85, intensity 0.30  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 2,
+        "resonance": 14
+      },
+      "logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible."
+    },
+    {
+      "episode": 16,
+      "segments": [
+        {
+          "episode": 16,
+          "start": "00:46.30",
+          "end": "01:23.19",
+          "start_s": 46.3,
+          "end_s": 83.19
+        }
+      ],
+      "duration_s": 36.9,
+      "score": 89.5,
+      "parts": {
+        "hook": 0.967,
+        "cliffhanger": 0.767,
+        "standalone": 0.85,
+        "intensity": 0.108
+      },
+      "hook": "Wrong answer.",
+      "hook_desc": "dialogue · ALEXANDER",
+      "cliffhanger": "Slow, resonant emotional cello melody swelling to a dramatic cliffhanger hold.",
+      "why": "hook 0.97, cliff 0.77, stands alone 0.85, intensity 0.11  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 3,
+        "vindication_markers": 2,
+        "resonance": 40.0
+      },
+      "logline": "When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession that unmasks Gerald Harrington as the mastermind."
+    },
+    {
+      "episode": 1,
+      "segments": [
+        {
+          "episode": 1,
+          "start": "00:21.80",
+          "end": "01:10.40",
+          "start_s": 21.8,
+          "end_s": 70.4
+        }
+      ],
+      "duration_s": 48.6,
+      "score": 87.9,
+      "parts": {
+        "hook": 1.0,
+        "cliffhanger": 0.767,
+        "standalone": 0.85,
+        "intensity": 0.263
+      },
+      "hook": "What do you mean?",
+      "hook_desc": "dialogue · LADY JULIANA",
+      "cliffhanger": "And you knew?",
+      "why": "hook 1.00, cliff 0.77, stands alone 0.85, intensity 0.26  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 4,
+        "vindication_markers": 1,
+        "resonance": 37
+      },
+      "logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing."
+    },
+    {
+      "episode": 31,
+      "segments": [
+        {
+          "episode": 31,
+          "start": "01:17.80",
+          "end": "02:04.00",
+          "start_s": 77.8,
+          "end_s": 124.0
+        }
+      ],
+      "duration_s": 46.2,
+      "score": 82.4,
+      "parts": {
+        "hook": 1.0,
+        "cliffhanger": 0.767,
+        "standalone": 0.85,
+        "intensity": 0.164
+      },
+      "hook": "You call that marriage?",
+      "hook_desc": "dialogue · CATHERINE",
+      "cliffhanger": "Catherine's smug expression freezes, her eyes widening in momentary shock and fury as the blow lands squarely.",
+      "why": "hook 1.00, cliff 0.77, stands alone 0.85, intensity 0.16  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 1,
+        "resonance": 25
+      },
+      "logline": "Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological torment until Juliana's unyielding pride pushes Catherine to a violent brink."
+    },
+    {
+      "episode": 2,
+      "segments": [
+        {
+          "episode": 2,
+          "start": "01:14.40",
+          "end": "01:50.00",
+          "start_s": 74.4,
+          "end_s": 110.0
+        }
+      ],
+      "duration_s": 35.6,
+      "score": 82.2,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.733,
+        "standalone": 0.85,
+        "intensity": 0.18
+      },
+      "hook": "Dignity?",
+      "hook_desc": "dialogue · LADY JULIANA",
+      "cliffhanger": "Juliana breathes with steady resolve, holding her head high as the solemn orchestral score swells into the final beat.",
+      "why": "hook 0.77, cliff 0.73, stands alone 0.85, intensity 0.18  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 5,
+        "resonance": 39
+      },
+      "logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor."
+    },
+    {
+      "episode": 28,
+      "segments": [
+        {
+          "episode": 28,
+          "start": "00:15.30",
+          "end": "00:42.20",
+          "start_s": 15.3,
+          "end_s": 42.2
+        }
+      ],
+      "duration_s": 26.9,
+      "score": 81.7,
+      "parts": {
+        "hook": 1.0,
+        "cliffhanger": 0.433,
+        "standalone": 0.85,
+        "intensity": 0.247
+      },
+      "hook": "I did not poison her! Look at her eyes, the fever has broken!",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "And you... you knew!",
+      "why": "hook 1.00, cliff 0.43, stands alone 0.85, intensity 0.25  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 5,
+        "vindication_markers": 1,
+        "resonance": 37
+      },
+      "logline": "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons."
+    },
+    {
+      "episode": 12,
+      "segments": [
+        {
+          "episode": 12,
+          "start": "00:42.20",
+          "end": "01:27.21",
+          "start_s": 42.2,
+          "end_s": 87.21
+        }
+      ],
+      "duration_s": 45.0,
+      "score": 80.6,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 1.0,
+        "standalone": 0.85,
+        "intensity": 0.115
+      },
+      "hook": "What do you want?",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance.",
+      "why": "hook 0.77, cliff 1.00, stands alone 0.85, intensity 0.12  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 1,
+        "resonance": 25
+      },
+      "logline": "When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp blackthorn briars with her bare hands, or watch her husband hang."
+    },
+    {
+      "episode": 27,
+      "segments": [
+        {
+          "episode": 27,
+          "start": "01:00.00",
+          "end": "01:32.40",
+          "start_s": 60.0,
+          "end_s": 92.4
+        }
+      ],
+      "duration_s": 32.4,
+      "score": 80.4,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.767,
+        "standalone": 0.85,
+        "intensity": 0.186
+      },
+      "hook": "What are you hiding?",
+      "hook_desc": "dialogue · LADY CATHERINE",
+      "cliffhanger": "And you decided you knew better than every physician in this house?",
+      "why": "hook 0.77, cliff 0.77, stands alone 0.85, intensity 0.19  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 1,
+        "resonance": 31
+      },
+      "logline": "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess."
+    },
+    {
+      "episode": 25,
+      "segments": [
+        {
+          "episode": 25,
+          "start": "02:17.40",
+          "end": "02:48.00",
+          "start_s": 137.4,
+          "end_s": 168.0
+        }
+      ],
+      "duration_s": 30.6,
+      "score": 80.0,
+      "parts": {
+        "hook": 1.0,
+        "cliffhanger": 0.733,
+        "standalone": 0.85,
+        "intensity": 0.12
+      },
+      "hook": "Worry? They struck you. They could have killed you.",
+      "hook_desc": "dialogue · ALEXANDER",
+      "cliffhanger": "Wide tracking shot from behind Alexander and Juliana as their silhouettes disappear into the shadowy, mist-veiled forest as emotional strings swell to a resolving chord.",
+      "why": "hook 1.00, cliff 0.73, stands alone 0.85, intensity 0.12  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 0,
+        "resonance": 12
+      },
+      "logline": "Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic."
+    },
+    {
+      "episode": 27,
+      "segments": [
+        {
+          "episode": 27,
+          "start": "02:04.80",
+          "end": "02:30.50",
+          "start_s": 124.8,
+          "end_s": 150.5
+        }
+      ],
+      "duration_s": 25.7,
+      "score": 79.0,
+      "parts": {
+        "hook": 1.0,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.28
+      },
+      "hook": "She admits she has been giving the Duchess poison in secret!",
+      "hook_desc": "dialogue · LADY CATHERINE",
+      "cliffhanger": "Extreme close-up of Juliana's wide, terrified eyes as she realizes the deadly trap closing around her, cutting abruptly to black.",
+      "why": "hook 1.00, cliff 0.47, stands alone 0.85, intensity 0.28  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 1,
+        "resonance": 25
+      },
+      "logline": "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess."
+    },
+    {
+      "episode": 5,
+      "segments": [
+        {
+          "episode": 5,
+          "start": "00:55.50",
+          "end": "01:50.50",
+          "start_s": 55.5,
+          "end_s": 110.5
+        }
+      ],
+      "duration_s": 55.0,
+      "score": 78.7,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.767,
+        "standalone": 0.85,
+        "intensity": 0.13
+      },
+      "hook": "Barbara, don't!",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral swell that slowly fades to black.",
+      "why": "hook 0.77, cliff 0.77, stands alone 0.85, intensity 0.13  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 2,
+        "resonance": 38
+      },
+      "logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family."
+    },
+    {
+      "episode": 45,
+      "segments": [
+        {
+          "episode": 45,
+          "start": "01:08.80",
+          "end": "02:01.75",
+          "start_s": 68.8,
+          "end_s": 121.75
+        }
+      ],
+      "duration_s": 53.0,
+      "score": 78.4,
+      "parts": {
+        "hook": 1.0,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.118
+      },
+      "hook": "Wife?!",
+      "hook_desc": "dialogue · CATHERINE",
+      "cliffhanger": "Slow push-in close-up on Catherine beneath her veil, her initial despair morphing into a cold, venomous, triumphant smile as the episode cuts.",
+      "why": "hook 1.00, cliff 0.47, stands alone 0.85, intensity 0.12  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 3,
+        "resonance": 40.0
+      },
+      "logline": "Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid."
+    },
+    {
+      "episode": 35,
+      "segments": [
+        {
+          "episode": 35,
+          "start": "02:06.00",
+          "end": "02:37.50",
+          "start_s": 126.0,
+          "end_s": 157.5
+        }
+      ],
+      "duration_s": 31.5,
+      "score": 77.8,
+      "parts": {
+        "hook": 0.833,
+        "cliffhanger": 1.0,
+        "standalone": 0.85,
+        "intensity": 0.107
+      },
+      "hook": "Because someone wanted you to believe I was dead.",
+      "hook_desc": "dialogue · ALEXANDER",
+      "cliffhanger": "A sudden, ominous orchestral crescendo swells dramatically into silence.",
+      "why": "hook 0.83, cliff 1.00, stands alone 0.85, intensity 0.11",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise."
+    },
+    {
+      "episode": 1,
+      "segments": [
+        {
+          "episode": 1,
+          "start": "01:36.20",
+          "end": "02:18.00",
+          "start_s": 96.2,
+          "end_s": 138.0
+        }
+      ],
+      "duration_s": 41.8,
+      "score": 77.5,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 1.0,
+        "standalone": 0.85,
+        "intensity": 0.103
+      },
+      "hook": "Embarrassed you?",
+      "hook_desc": "dialogue · LADY JULIANA",
+      "cliffhanger": "Cut to black.",
+      "why": "hook 0.77, cliff 1.00, stands alone 0.85, intensity 0.10",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 0,
+        "resonance": 6
+      },
+      "logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing."
+    },
+    {
+      "episode": 36,
+      "segments": [
+        {
+          "episode": 36,
+          "start": "01:44.00",
+          "end": "02:28.00",
+          "start_s": 104.0,
+          "end_s": 148.0
+        }
+      ],
+      "duration_s": 44.0,
+      "score": 77.5,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.667,
+        "standalone": 0.85,
+        "intensity": 0.189
+      },
+      "hook": "Arrested?",
+      "hook_desc": "dialogue · ALEXANDER",
+      "cliffhanger": "What wedding?",
+      "why": "hook 0.77, cliff 0.67, stands alone 0.85, intensity 0.19  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 1,
+        "resonance": 31
+      },
+      "logline": "Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows to return from the dead and reclaim everything stolen from him."
+    },
+    {
+      "episode": 11,
+      "segments": [
+        {
+          "episode": 11,
+          "start": "00:58.00",
+          "end": "01:52.75",
+          "start_s": 58.0,
+          "end_s": 112.75
+        }
+      ],
+      "duration_s": 54.8,
+      "score": 77.0,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 1.0,
+        "standalone": 0.85,
+        "intensity": 0.137
+      },
+      "hook": "Stop! Those are my mother's medicines!",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its long chain, with Gerald blurred in the background grinning with sinister triumph as the scene hangs in a devastating freeze-frame.",
+      "why": "hook 0.77, cliff 1.00, stands alone 0.85, intensity 0.14  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 2,
+        "resonance": 14
+      },
+      "logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart."
+    },
+    {
+      "episode": 36,
+      "segments": [
+        {
+          "episode": 36,
+          "start": "02:26.50",
+          "end": "03:20.75",
+          "start_s": 146.5,
+          "end_s": 200.75
+        }
+      ],
+      "duration_s": 54.2,
+      "score": 76.0,
+      "parts": {
+        "hook": 1.0,
+        "cliffhanger": 0.767,
+        "standalone": 0.85,
+        "intensity": 0.184
+      },
+      "hook": "What wedding?",
+      "hook_desc": "dialogue · ALEXANDER",
+      "cliffhanger": "A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into silence.",
+      "why": "hook 1.00, cliff 0.77, stands alone 0.85, intensity 0.18",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 0,
+        "resonance": 6
+      },
+      "logline": "Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows to return from the dead and reclaim everything stolen from him."
+    },
+    {
+      "episode": 37,
+      "segments": [
+        {
+          "episode": 37,
+          "start": "01:45.50",
+          "end": "02:36.47",
+          "start_s": 105.5,
+          "end_s": 156.47
+        }
+      ],
+      "duration_s": 51.0,
+      "score": 75.9,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.767,
+        "standalone": 0.85,
+        "intensity": 0.086
+      },
+      "hook": "I will not!",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "A deep, ominous cello rumble builds alongside the crackle of the fireplace into an unresolved, tension-filled cliffhanger sting before fading out.",
+      "why": "hook 0.77, cliff 0.77, stands alone 0.85, intensity 0.09  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 2,
+        "resonance": 32
+      },
+      "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit."
+    },
+    {
+      "episode": 15,
+      "segments": [
+        {
+          "episode": 15,
+          "start": "00:44.80",
+          "end": "01:26.00",
+          "start_s": 44.8,
+          "end_s": 86.0
+        }
+      ],
+      "duration_s": 41.2,
+      "score": 73.7,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.767,
+        "standalone": 0.85,
+        "intensity": 0.132
+      },
+      "hook": "Get out of the way!",
+      "hook_desc": "dialogue · THUG WITH CAP",
+      "cliffhanger": "Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+      "why": "hook 0.77, cliff 0.77, stands alone 0.85, intensity 0.13  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 2,
+        "resonance": 14
+      },
+      "logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her."
+    },
+    {
+      "episode": 28,
+      "segments": [
+        {
+          "episode": 28,
+          "start": "01:35.20",
+          "end": "02:18.50",
+          "start_s": 95.2,
+          "end_s": 138.5
+        }
+      ],
+      "duration_s": 43.3,
+      "score": 73.7,
+      "parts": {
+        "hook": 0.85,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.277
+      },
+      "hook": "Juliana gasps in horror, realizing her secret identity has been laid bare.",
+      "hook_desc": "action",
+      "cliffhanger": "Extreme close-up of Juliana's wide, trembling eyes as the guard wrenches her backward into the dark hallway, cutting sharply to black.",
+      "why": "hook 0.85, cliff 0.47, stands alone 0.85, intensity 0.28  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 1,
+        "resonance": 25
+      },
+      "logline": "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons."
+    },
+    {
+      "episode": 24,
+      "segments": [
+        {
+          "episode": 24,
+          "start": "00:29.00",
+          "end": "01:10.50",
+          "start_s": 29.0,
+          "end_s": 70.5
+        }
+      ],
+      "duration_s": 41.5,
+      "score": 72.8,
+      "parts": {
+        "hook": 0.967,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.185
+      },
+      "hook": "Then let her suffer.",
+      "hook_desc": "dialogue · NOBLEWOMAN",
+      "cliffhanger": "Do you want the same punishment?",
+      "why": "hook 0.97, cliff 0.50, stands alone 0.85, intensity 0.19  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 0,
+        "resonance": 12
+      },
+      "logline": "When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the hearth, unaware that Juliana has secretly hidden the antidote and remedy journal to finish the Duchess's cure."
+    },
+    {
+      "episode": 37,
+      "segments": [
+        {
+          "episode": 37,
+          "start": "01:02.80",
+          "end": "01:59.80",
+          "start_s": 62.8,
+          "end_s": 119.8
+        }
+      ],
+      "duration_s": 57.0,
+      "score": 72.4,
+      "parts": {
+        "hook": 0.967,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.089
+      },
+      "hook": "They want the families to witness it.",
+      "hook_desc": "dialogue · LADY CLARISSA",
+      "cliffhanger": "Do you think she'll actually be executed?",
+      "why": "hook 0.97, cliff 0.33, stands alone 0.85, intensity 0.09  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 2,
+        "resonance": 38
+      },
+      "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit."
+    },
+    {
+      "episode": 47,
+      "segments": [
+        {
+          "episode": 47,
+          "start": "01:36.00",
+          "end": "02:14.00",
+          "start_s": 96.0,
+          "end_s": 134.0
+        }
+      ],
+      "duration_s": 38.0,
+      "score": 72.4,
+      "parts": {
+        "hook": 1.0,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.15
+      },
+      "hook": "You want me? As a guest?",
+      "hook_desc": "dialogue · CATHERINE",
+      "cliffhanger": "Wide shot down the vaulted stone hall as Catherine prostrates herself entirely upon the floor before Alexander, Juliana, and Lady Ashbourne, humbled to the stone as the scene cuts to black.",
+      "why": "hook 1.00, cliff 0.47, stands alone 0.85, intensity 0.15  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 0,
+        "resonance": 12
+      },
+      "logline": "While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne—only for Juliana to offer her survival under the strict humiliation of a scullery maid."
+    },
+    {
+      "episode": 7,
+      "segments": [
+        {
+          "episode": 7,
+          "start": "00:33.20",
+          "end": "01:24.00",
+          "start_s": 33.2,
+          "end_s": 84.0
+        }
+      ],
+      "duration_s": 50.8,
+      "score": 72.3,
+      "parts": {
+        "hook": 0.967,
+        "cliffhanger": 0.767,
+        "standalone": 0.85,
+        "intensity": 0.15
+      },
+      "hook": "Home? Look at your hands, Juliana.",
+      "hook_desc": "dialogue · ARISTOCRATIC WOMAN",
+      "cliffhanger": "Gerald freezes, his arrogant bravado instantly vanishing as cold dread overtakes his face.",
+      "why": "hook 0.97, cliff 0.77, stands alone 0.85, intensity 0.15",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing."
+    },
+    {
+      "episode": 29,
+      "segments": [
+        {
+          "episode": 29,
+          "start": "01:04.50",
+          "end": "01:56.69",
+          "start_s": 64.5,
+          "end_s": 116.69
+        }
+      ],
+      "duration_s": 52.2,
+      "score": 71.8,
+      "parts": {
+        "hook": 0.967,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.103
+      },
+      "hook": "You were cast out once.",
+      "hook_desc": "dialogue · CATHERINE",
+      "cliffhanger": "Low-angle shot looking up at Juliana standing dignified in the center of the damp dungeon cell, gazing upward toward the overhead grate where faint beams of moonlight filter down, cutting sharply to black.",
+      "why": "hook 0.97, cliff 0.47, stands alone 0.85, intensity 0.10  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 1,
+        "resonance": 25
+      },
+      "logline": "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isolation before swearing that they will never take Alexander from her."
+    },
+    {
+      "episode": 4,
+      "segments": [
+        {
+          "episode": 4,
+          "start": "01:55.00",
+          "end": "02:31.40",
+          "start_s": 115.0,
+          "end_s": 151.4
+        }
+      ],
+      "duration_s": 36.4,
+      "score": 71.7,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.733,
+        "standalone": 0.85,
+        "intensity": 0.062
+      },
+      "hook": "You have thrown yourself away!",
+      "hook_desc": "dialogue · GERALD",
+      "cliffhanger": "Wide shot from the back of the chapel as the massive oak doors swing wide open, revealing bright daylight and the courtyard outside.",
+      "why": "hook 0.77, cliff 0.73, stands alone 0.85, intensity 0.06  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 2,
+        "resonance": 14
+      },
+      "logline": "Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together."
+    },
+    {
+      "episode": 43,
+      "segments": [
+        {
+          "episode": 43,
+          "start": "01:06.50",
+          "end": "01:46.20",
+          "start_s": 66.5,
+          "end_s": 106.2
+        }
+      ],
+      "duration_s": 39.7,
+      "score": 71.7,
+      "parts": {
+        "hook": 0.967,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.222
+      },
+      "hook": "My God...",
+      "hook_desc": "dialogue · DOWAGER DUCHESS",
+      "cliffhanger": "My Lord?",
+      "why": "hook 0.97, cliff 0.50, stands alone 0.85, intensity 0.22",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 1,
+        "resonance": 7
+      },
+      "logline": "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot."
+    },
+    {
+      "episode": 20,
+      "segments": [
+        {
+          "episode": 20,
+          "start": "00:39.40",
+          "end": "01:04.50",
+          "start_s": 39.4,
+          "end_s": 64.5
+        }
+      ],
+      "duration_s": 25.1,
+      "score": 71.4,
+      "parts": {
+        "hook": 0.967,
+        "cliffhanger": 0.533,
+        "standalone": 0.85,
+        "intensity": 0.136
+      },
+      "hook": "Not through the winter. I've ensured her quiet comfort.",
+      "hook_desc": "dialogue · RUPERT",
+      "cliffhanger": "The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern.",
+      "why": "hook 0.97, cliff 0.53, stands alone 0.85, intensity 0.14",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 1,
+        "resonance": 7
+      },
+      "logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers."
+    },
+    {
+      "episode": 31,
+      "segments": [
+        {
+          "episode": 31,
+          "start": "00:10.50",
+          "end": "00:50.80",
+          "start_s": 10.5,
+          "end_s": 50.8
+        }
+      ],
+      "duration_s": 40.3,
+      "score": 70.8,
+      "parts": {
+        "hook": 0.967,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.189
+      },
+      "hook": "The great Lady Juliana Ashcroft.",
+      "hook_desc": "dialogue · CATHERINE",
+      "cliffhanger": "Do you remember?",
+      "why": "hook 0.97, cliff 0.50, stands alone 0.85, intensity 0.19",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 0,
+        "resonance": 6
+      },
+      "logline": "Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological torment until Juliana's unyielding pride pushes Catherine to a violent brink."
+    },
+    {
+      "episode": 12,
+      "segments": [
+        {
+          "episode": 12,
+          "start": "00:05.70",
+          "end": "00:43.50",
+          "start_s": 5.7,
+          "end_s": 43.5
+        }
+      ],
+      "duration_s": 37.8,
+      "score": 70.7,
+      "parts": {
+        "hook": 1.0,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.108
+      },
+      "hook": "No! That watch was not in his coat!",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "What do you want?",
+      "why": "hook 1.00, cliff 0.50, stands alone 0.85, intensity 0.11",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 0,
+        "resonance": 6
+      },
+      "logline": "When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp blackthorn briars with her bare hands, or watch her husband hang."
+    },
+    {
+      "episode": 6,
+      "segments": [
+        {
+          "episode": 6,
+          "start": "00:58.40",
+          "end": "01:55.00",
+          "start_s": 58.4,
+          "end_s": 115.0
+        }
+      ],
+      "duration_s": 56.6,
+      "score": 70.6,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.733,
+        "standalone": 0.85,
+        "intensity": 0.052
+      },
+      "hook": "You are not disappointed?",
+      "hook_desc": "dialogue · MYSTERIOUS BEARDED MAN",
+      "cliffhanger": "Close-up on the crackling flames and glowing embers of the fireplace, slowly fading to black as the music swells warmly.",
+      "why": "hook 0.77, cliff 0.73, stands alone 0.85, intensity 0.05  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 3,
+        "resonance": 21
+      },
+      "logline": "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth."
+    },
+    {
+      "episode": 3,
+      "segments": [
+        {
+          "episode": 3,
+          "start": "00:03.60",
+          "end": "00:40.40",
+          "start_s": 3.6,
+          "end_s": 40.4
+        }
+      ],
+      "duration_s": 36.8,
+      "score": 70.0,
+      "parts": {
+        "hook": 0.733,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.219
+      },
+      "hook": "...still clinging to that little locket as if it can make you worthy of a place here.",
+      "hook_desc": "dialogue · LADY IN GOLD GOWN",
+      "cliffhanger": "And what happens to me?",
+      "why": "hook 0.73, cliff 0.33, stands alone 0.85, intensity 0.22  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 3,
+        "vindication_markers": 2,
+        "resonance": 40.0
+      },
+      "logline": "Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal grace—and drops to one knee with a proposal that shocks high society."
+    },
+    {
+      "episode": 33,
+      "segments": [
+        {
+          "episode": 33,
+          "start": "02:14.50",
+          "end": "02:54.04",
+          "start_s": 134.5,
+          "end_s": 174.04
+        }
+      ],
+      "duration_s": 39.5,
+      "score": 70.0,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.733,
+        "standalone": 0.85,
+        "intensity": 0.12
+      },
+      "hook": "My testimony?!",
+      "hook_desc": "dialogue · MAID",
+      "cliffhanger": "The heartbroken maid weeps silently in the shadow of the desk, consumed by guilt and powerlessness.",
+      "why": "hook 0.77, cliff 0.73, stands alone 0.85, intensity 0.12",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 1,
+        "resonance": 7
+      },
+      "logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft."
+    },
+    {
+      "episode": 24,
+      "segments": [
+        {
+          "episode": 24,
+          "start": "01:06.20",
+          "end": "01:31.50",
+          "start_s": 66.2,
+          "end_s": 91.5
+        }
+      ],
+      "duration_s": 25.3,
+      "score": 69.7,
+      "parts": {
+        "hook": 0.967,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.158
+      },
+      "hook": "My lady—",
+      "hook_desc": "dialogue · PRUDENCE",
+      "cliffhanger": "Juliana raises her head. Smudges of dark soot stain her fair cheek, but her piercing blue eyes burn with unwavering defiance and unyielding resolve as she stares toward the hallway.",
+      "why": "hook 0.97, cliff 0.47, stands alone 0.85, intensity 0.16",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 1,
+        "resonance": 7
+      },
+      "logline": "When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the hearth, unaware that Juliana has secretly hidden the antidote and remedy journal to finish the Duchess's cure."
+    },
+    {
+      "episode": 42,
+      "segments": [
+        {
+          "episode": 42,
+          "start": "00:11.20",
+          "end": "00:39.80",
+          "start_s": 11.2,
+          "end_s": 39.8
+        }
+      ],
+      "duration_s": 28.6,
+      "score": 69.1,
+      "parts": {
+        "hook": 1.0,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.33
+      },
+      "hook": "Who are you?",
+      "hook_desc": "dialogue · BLOND NOBLEMAN",
+      "cliffhanger": "And yet, here I stand. That is the lie you built your life upon.",
+      "why": "hook 1.00, cliff 0.33, stands alone 0.85, intensity 0.33",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 0,
+        "resonance": 6
+      },
+      "logline": "Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother."
+    },
+    {
+      "episode": 23,
+      "segments": [
+        {
+          "episode": 23,
+          "start": "01:22.00",
+          "end": "02:11.20",
+          "start_s": 82.0,
+          "end_s": 131.2
+        }
+      ],
+      "duration_s": 49.2,
+      "score": 68.7,
+      "parts": {
+        "hook": 1.0,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.125
+      },
+      "hook": "Poison?",
+      "hook_desc": "dialogue · PRUDENCE",
+      "cliffhanger": "Loud, metallic clack of the door latch turning, followed by the slow creak of wood hinges.",
+      "why": "hook 1.00, cliff 0.47, stands alone 0.85, intensity 0.12  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 0,
+        "resonance": 12
+      },
+      "logline": "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic—only for someone to arrive at the bedroom door just as she begins concocting the antidote."
+    },
+    {
+      "episode": 32,
+      "segments": [
+        {
+          "episode": 32,
+          "start": "01:47.20",
+          "end": "02:34.38",
+          "start_s": 107.2,
+          "end_s": 154.38
+        }
+      ],
+      "duration_s": 47.2,
+      "score": 68.6,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.733,
+        "standalone": 0.85,
+        "intensity": 0.13
+      },
+      "hook": "And what is wrong with that?!",
+      "hook_desc": "dialogue · CATHERINE",
+      "cliffhanger": "Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters from her right eye.",
+      "why": "hook 0.77, cliff 0.73, stands alone 0.85, intensity 0.13  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 0,
+        "resonance": 12
+      },
+      "logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury."
+    },
+    {
+      "episode": 47,
+      "segments": [
+        {
+          "episode": 47,
+          "start": "01:03.50",
+          "end": "01:38.80",
+          "start_s": 63.5,
+          "end_s": 98.8
+        }
+      ],
+      "duration_s": 35.3,
+      "score": 68.6,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.667,
+        "standalone": 0.85,
+        "intensity": 0.177
+      },
+      "hook": "London closed its doors! My family disowned me!",
+      "hook_desc": "dialogue · CATHERINE",
+      "cliffhanger": "You want me? As a guest?",
+      "why": "hook 0.77, cliff 0.67, stands alone 0.85, intensity 0.18",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 0,
+        "resonance": 6
+      },
+      "logline": "While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne—only for Juliana to offer her survival under the strict humiliation of a scullery maid."
+    },
+    {
+      "episode": 42,
+      "segments": [
+        {
+          "episode": 42,
+          "start": "00:25.50",
+          "end": "01:17.80",
+          "start_s": 25.5,
+          "end_s": 77.8
+        }
+      ],
+      "duration_s": 52.3,
+      "score": 68.4,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.157
+      },
+      "hook": "Why?!",
+      "hook_desc": "dialogue · BLOND NOBLEMAN",
+      "cliffhanger": "Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold retribution.",
+      "why": "hook 0.77, cliff 0.47, stands alone 0.85, intensity 0.16  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 2,
+        "resonance": 32
+      },
+      "logline": "Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother."
+    },
+    {
+      "episode": 25,
+      "segments": [
+        {
+          "episode": 25,
+          "start": "01:20.20",
+          "end": "01:47.00",
+          "start_s": 80.2,
+          "end_s": 107.0
+        }
+      ],
+      "duration_s": 26.8,
+      "score": 67.8,
+      "parts": {
+        "hook": 0.833,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.164
+      },
+      "hook": "Poison.",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "You treated her?",
+      "why": "hook 0.83, cliff 0.50, stands alone 0.85, intensity 0.16  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 0,
+        "resonance": 12
+      },
+      "logline": "Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic."
+    },
+    {
+      "episode": 2,
+      "segments": [
+        {
+          "episode": 2,
+          "start": "00:18.20",
+          "end": "01:16.40",
+          "start_s": 18.2,
+          "end_s": 76.4
+        }
+      ],
+      "duration_s": 58.2,
+      "score": 66.8,
+      "parts": {
+        "hook": 0.967,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.15
+      },
+      "hook": "You gave me your word before both our families.",
+      "hook_desc": "dialogue · LADY JULIANA",
+      "cliffhanger": "Dignity?",
+      "why": "hook 0.97, cliff 0.50, stands alone 0.85, intensity 0.15",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 0,
+        "resonance": 6
+      },
+      "logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor."
+    },
+    {
+      "episode": 3,
+      "segments": [
+        {
+          "episode": 3,
+          "start": "00:25.90",
+          "end": "01:04.50",
+          "start_s": 25.9,
+          "end_s": 64.5
+        }
+      ],
+      "duration_s": 38.6,
+      "score": 66.7,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.4,
+        "standalone": 0.85,
+        "intensity": 0.247
+      },
+      "hook": "You have humiliated this family enough for one day.",
+      "hook_desc": "dialogue · NOBLE MATRIARCH",
+      "cliffhanger": "Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone.",
+      "why": "hook 0.60, cliff 0.40, stands alone 0.85, intensity 0.25  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 4,
+        "vindication_markers": 1,
+        "resonance": 37
+      },
+      "logline": "Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal grace—and drops to one knee with a proposal that shocks high society."
+    },
+    {
+      "episode": 29,
+      "segments": [
+        {
+          "episode": 29,
+          "start": "00:27.10",
+          "end": "01:06.50",
+          "start_s": 27.1,
+          "end_s": 66.5
+        }
+      ],
+      "duration_s": 39.4,
+      "score": 65.9,
+      "parts": {
+        "hook": 1.0,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.263
+      },
+      "hook": "It is medicine!",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "You were cast out once.",
+      "why": "hook 1.00, cliff 0.33, stands alone 0.85, intensity 0.26",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isolation before swearing that they will never take Alexander from her."
+    },
+    {
+      "episode": 43,
+      "segments": [
+        {
+          "episode": 43,
+          "start": "00:16.20",
+          "end": "01:08.00",
+          "start_s": 16.2,
+          "end_s": 68.0
+        }
+      ],
+      "duration_s": 51.8,
+      "score": 65.9,
+      "parts": {
+        "hook": 1.0,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.157
+      },
+      "hook": "I am Lord Rupert Ashburn!",
+      "hook_desc": "dialogue · BLOND NOBLEMAN",
+      "cliffhanger": "My God...",
+      "why": "hook 1.00, cliff 0.50, stands alone 0.85, intensity 0.16",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot."
+    },
+    {
+      "episode": 50,
+      "segments": [
+        {
+          "episode": 50,
+          "start": "00:27.20",
+          "end": "01:20.00",
+          "start_s": 27.2,
+          "end_s": 80.0
+        }
+      ],
+      "duration_s": 52.8,
+      "score": 65.7,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 1.0,
+        "standalone": 0.85,
+        "intensity": 0.081
+      },
+      "hook": "That's not absolution, Thomas. That's a fortune.",
+      "hook_desc": "dialogue · CATHERINE",
+      "cliffhanger": "Frantic backward tracking close-up on Agnes stumbling back into the shadows of the hallway, horrified by the lethal secret she has uncovered before an abrupt cut to black.",
+      "why": "hook 0.60, cliff 1.00, stands alone 0.85, intensity 0.08",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control—unaware that Agnes has walked in and witnessed their scandalous intimacy."
+    },
+    {
+      "episode": 45,
+      "segments": [
+        {
+          "episode": 45,
+          "start": "00:49.80",
+          "end": "01:10.50",
+          "start_s": 49.8,
+          "end_s": 70.5
+        }
+      ],
+      "duration_s": 20.7,
+      "score": 65.2,
+      "parts": {
+        "hook": 0.967,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.467
+      },
+      "hook": "Alexander...",
+      "hook_desc": "dialogue · CATHERINE",
+      "cliffhanger": "Wife?!",
+      "why": "hook 0.97, cliff 0.33, stands alone 0.85, intensity 0.47  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 0,
+        "resonance": 12
+      },
+      "logline": "Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid."
+    },
+    {
+      "episode": 14,
+      "segments": [
+        {
+          "episode": 14,
+          "start": "00:29.80",
+          "end": "01:27.63",
+          "start_s": 29.8,
+          "end_s": 87.63
+        }
+      ],
+      "duration_s": 57.8,
+      "score": 63.7,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.767,
+        "standalone": 0.85,
+        "intensity": 0.058
+      },
+      "hook": "Take me home.",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "Ominous, resonating low bass boom swelling into sudden silence as the screen cuts to black.",
+      "why": "hook 0.60, cliff 0.77, stands alone 0.85, intensity 0.06  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 2,
+        "resonance": 14
+      },
+      "logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again."
+    },
+    {
+      "episode": 34,
+      "segments": [
+        {
+          "episode": 34,
+          "start": "01:18.80",
+          "end": "01:55.00",
+          "start_s": 78.8,
+          "end_s": 115.0
+        }
+      ],
+      "duration_s": 36.2,
+      "score": 63.5,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.115
+      },
+      "hook": "Yes.",
+      "hook_desc": "dialogue · PRUDENCE",
+      "cliffhanger": "What were their illnesses?",
+      "why": "hook 0.60, cliff 0.50, stands alone 0.85, intensity 0.12  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 1,
+        "resonance": 25
+      },
+      "logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her."
+    },
+    {
+      "episode": 13,
+      "segments": [
+        {
+          "episode": 13,
+          "start": "01:20.80",
+          "end": "01:58.88",
+          "start_s": 80.8,
+          "end_s": 118.88
+        }
+      ],
+      "duration_s": 38.1,
+      "score": 62.7,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.157
+      },
+      "hook": "Stop!",
+      "hook_desc": "dialogue · ALEXANDER",
+      "cliffhanger": "Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground as the episode cuts to black.",
+      "why": "hook 0.77, cliff 0.47, stands alone 0.85, intensity 0.16",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 1,
+        "resonance": 7
+      },
+      "logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring."
+    },
+    {
+      "episode": 30,
+      "segments": [
+        {
+          "episode": 30,
+          "start": "02:02.40",
+          "end": "02:31.21",
+          "start_s": 122.4,
+          "end_s": 151.21
+        }
+      ],
+      "duration_s": 28.8,
+      "score": 62.6,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.767,
+        "standalone": 0.85,
+        "intensity": 0.109
+      },
+      "hook": "She goes before the magistrate tomorrow.",
+      "hook_desc": "dialogue · ELDER NOBLEMAN",
+      "cliffhanger": "Echoing, hollow water droplets splashing into dark pools beneath stone vaults, accompanied by a somber orchestral swell.",
+      "why": "hook 0.60, cliff 0.77, stands alone 0.85, intensity 0.11",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows."
+    },
+    {
+      "episode": 20,
+      "segments": [
+        {
+          "episode": 20,
+          "start": "01:29.90",
+          "end": "01:54.75",
+          "start_s": 89.9,
+          "end_s": 114.75
+        }
+      ],
+      "duration_s": 24.8,
+      "score": 62.4,
+      "parts": {
+        "hook": 0.967,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.3
+      },
+      "hook": "Let the peasants rot in their barns.",
+      "hook_desc": "dialogue · CATHERINE",
+      "cliffhanger": "Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold.",
+      "why": "hook 0.97, cliff 0.47, stands alone 0.85, intensity 0.30",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers."
+    },
+    {
+      "episode": 11,
+      "segments": [
+        {
+          "episode": 11,
+          "start": "00:19.00",
+          "end": "01:16.80",
+          "start_s": 19.0,
+          "end_s": 76.8
+        }
+      ],
+      "duration_s": 57.8,
+      "score": 62.1,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.156
+      },
+      "hook": "What? When?",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "Happy?",
+      "why": "hook 0.77, cliff 0.33, stands alone 0.85, intensity 0.16  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 1,
+        "resonance": 25
+      },
+      "logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart."
+    },
+    {
+      "episode": 41,
+      "segments": [
+        {
+          "episode": 41,
+          "start": "01:01.00",
+          "end": "01:36.09",
+          "start_s": 61.0,
+          "end_s": 96.09
+        }
+      ],
+      "duration_s": 35.1,
+      "score": 62.0,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.733,
+        "standalone": 0.85,
+        "intensity": 0.133
+      },
+      "hook": "Still arrogant. Still standing.",
+      "hook_desc": "dialogue · CATHERINE",
+      "cliffhanger": "Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger.",
+      "why": "hook 0.60, cliff 0.73, stands alone 0.85, intensity 0.13",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced—until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault."
+    },
+    {
+      "episode": 44,
+      "segments": [
+        {
+          "episode": 44,
+          "start": "00:17.40",
+          "end": "01:10.40",
+          "start_s": 17.4,
+          "end_s": 70.4
+        }
+      ],
+      "duration_s": 53.0,
+      "score": 61.8,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.633,
+        "standalone": 0.85,
+        "intensity": 0.154
+      },
+      "hook": "Do something!",
+      "hook_desc": "dialogue · BLOND NOBLEMAN",
+      "cliffhanger": "Her?!",
+      "why": "hook 0.77, cliff 0.63, stands alone 0.85, intensity 0.15",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana."
+    },
+    {
+      "episode": 46,
+      "segments": [
+        {
+          "episode": 46,
+          "start": "01:52.00",
+          "end": "02:23.88",
+          "start_s": 112.0,
+          "end_s": 143.88
+        }
+      ],
+      "duration_s": 31.9,
+      "score": 61.4,
+      "parts": {
+        "hook": 0.733,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.15
+      },
+      "hook": "Then let it prove that in ten days, before witnesses. Not with six halberds pointed at me in my own chapel.",
+      "hook_desc": "dialogue · ALEXANDER",
+      "cliffhanger": "Slow pan to Catherine standing in her bridal gown beside the sunlit aisle, watching the priest depart before turning to camera with a wicked, predatory smile.",
+      "why": "hook 0.73, cliff 0.47, stands alone 0.85, intensity 0.15",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 1,
+        "resonance": 7
+      },
+      "logline": "The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to demand a ten-day ecclesiastical trial while Catherine schemes to destroy them."
+    },
+    {
+      "episode": 26,
+      "segments": [
+        {
+          "episode": 26,
+          "start": "00:56.00",
+          "end": "01:19.40",
+          "start_s": 56.0,
+          "end_s": 79.4
+        }
+      ],
+      "duration_s": 23.4,
+      "score": 61.3,
+      "parts": {
+        "hook": 1.0,
+        "cliffhanger": 0.333,
+        "standalone": 0.7,
+        "intensity": 0.3
+      },
+      "hook": "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?",
+      "hook_desc": "dialogue · DOWAGER DUCHESS",
+      "cliffhanger": "Then tell me... why is a girl of such noble spirit working as a common maid?",
+      "why": "hook 1.00, cliff 0.33, stands alone 0.70, intensity 0.30  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 0,
+        "resonance": 12
+      },
+      "logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity."
+    },
+    {
+      "episode": 35,
+      "segments": [
+        {
+          "episode": 35,
+          "start": "00:37.00",
+          "end": "01:14.00",
+          "start_s": 37.0,
+          "end_s": 74.0
+        }
+      ],
+      "duration_s": 37.0,
+      "score": 60.9,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.138
+      },
+      "hook": "Alexander!",
+      "hook_desc": "dialogue · ALEXANDER'S MOTHER",
+      "cliffhanger": "Then how did you survive?",
+      "why": "hook 0.77, cliff 0.50, stands alone 0.85, intensity 0.14",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise."
+    },
+    {
+      "episode": 16,
+      "segments": [
+        {
+          "episode": 16,
+          "start": "00:06.40",
+          "end": "00:37.80",
+          "start_s": 6.4,
+          "end_s": 37.8
+        }
+      ],
+      "duration_s": 31.4,
+      "score": 60.4,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.108
+      },
+      "hook": "I said, move!",
+      "hook_desc": "dialogue · THUG WITH CAP",
+      "cliffhanger": "Are you hurt?",
+      "why": "hook 0.77, cliff 0.33, stands alone 0.85, intensity 0.11  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 2,
+        "resonance": 14
+      },
+      "logline": "When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession that unmasks Gerald Harrington as the mastermind."
+    },
+    {
+      "episode": 21,
+      "segments": [
+        {
+          "episode": 21,
+          "start": "00:48.90",
+          "end": "01:39.20",
+          "start_s": 48.9,
+          "end_s": 99.2
+        }
+      ],
+      "duration_s": 50.3,
+      "score": 59.3,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.6,
+        "standalone": 0.85,
+        "intensity": 0.035
+      },
+      "hook": "Prudence, fetch hot water immediately!",
+      "hook_desc": "dialogue · LADY JULIANA",
+      "cliffhanger": "What do you mean? Is someone ill? The Dowager Duchess?",
+      "why": "hook 0.77, cliff 0.60, stands alone 0.85, intensity 0.04",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor."
+    },
+    {
+      "episode": 33,
+      "segments": [
+        {
+          "episode": 33,
+          "start": "00:57.40",
+          "end": "01:24.50",
+          "start_s": 57.4,
+          "end_s": 84.5
+        }
+      ],
+      "duration_s": 27.1,
+      "score": 59.2,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.2
+      },
+      "hook": "No!",
+      "hook_desc": "dialogue · MAID",
+      "cliffhanger": "She drew something around the bed, did she not?",
+      "why": "hook 0.77, cliff 0.33, stands alone 0.85, intensity 0.20",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 1,
+        "resonance": 7
+      },
+      "logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft."
+    },
+    {
+      "episode": 7,
+      "segments": [
+        {
+          "episode": 7,
+          "start": "01:28.60",
+          "end": "01:56.00",
+          "start_s": 88.6,
+          "end_s": 116.0
+        }
+      ],
+      "duration_s": 27.4,
+      "score": 59.1,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.086
+      },
+      "hook": "What are you staring at?",
+      "hook_desc": "dialogue · GERALD",
+      "cliffhanger": "Close-up of Juliana looking after him, a radiant and grateful smile blooming across her face as the scene fades out.",
+      "why": "hook 0.77, cliff 0.47, stands alone 0.85, intensity 0.09",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing."
+    },
+    {
+      "episode": 46,
+      "segments": [
+        {
+          "episode": 46,
+          "start": "01:18.10",
+          "end": "01:58.20",
+          "start_s": 78.1,
+          "end_s": 118.2
+        }
+      ],
+      "duration_s": 40.1,
+      "score": 59.1,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.212
+      },
+      "hook": "Now a church calls my marriage a lie!",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "Then let it prove that in ten days, before witnesses. Not with six halberds pointed at me in my own chapel.",
+      "why": "hook 0.77, cliff 0.33, stands alone 0.85, intensity 0.21",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 0,
+        "resonance": 6
+      },
+      "logline": "The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to demand a ten-day ecclesiastical trial while Catherine schemes to destroy them."
+    },
+    {
+      "episode": 10,
+      "segments": [
+        {
+          "episode": 10,
+          "start": "00:52.00",
+          "end": "01:34.00",
+          "start_s": 52.0,
+          "end_s": 94.0
+        }
+      ],
+      "duration_s": 42.0,
+      "score": 58.9,
+      "parts": {
+        "hook": 0.4,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.014
+      },
+      "hook": "Does it hurt?",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "Close-up shot holding on Juliana's wide, luminous blue eyes, completely captivated and overwhelmed by his confession, the firelight dancing across their intertwined hands as the scene lingers and fades.",
+      "why": "hook 0.40, cliff 0.47, stands alone 0.85, intensity 0.01  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 3,
+        "resonance": 39
+      },
+      "logline": "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspoken feelings and scarred pasts finally collide."
+    },
+    {
+      "episode": 34,
+      "segments": [
+        {
+          "episode": 34,
+          "start": "00:15.60",
+          "end": "00:41.20",
+          "start_s": 15.6,
+          "end_s": 41.2
+        }
+      ],
+      "duration_s": 25.6,
+      "score": 58.7,
+      "parts": {
+        "hook": 0.633,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.162
+      },
+      "hook": "Do you deny using its remedies?",
+      "hook_desc": "dialogue · JUDGE",
+      "cliffhanger": "Prudence. You served beside the accused?",
+      "why": "hook 0.63, cliff 0.50, stands alone 0.85, intensity 0.16",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 0,
+        "resonance": 6
+      },
+      "logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her."
+    },
+    {
+      "episode": 4,
+      "segments": [
+        {
+          "episode": 4,
+          "start": "00:03.40",
+          "end": "00:27.70",
+          "start_s": 3.4,
+          "end_s": 27.7
+        }
+      ],
+      "duration_s": 24.3,
+      "score": 57.6,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.106
+      },
+      "hook": "Look at him.",
+      "hook_desc": "dialogue · GERALD",
+      "cliffhanger": "Why would you offer me your name?",
+      "why": "hook 0.60, cliff 0.33, stands alone 0.85, intensity 0.11  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 4,
+        "vindication_markers": 1,
+        "resonance": 37
+      },
+      "logline": "Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together."
+    },
+    {
+      "episode": 15,
+      "segments": [
+        {
+          "episode": 15,
+          "start": "00:13.00",
+          "end": "01:03.20",
+          "start_s": 13.0,
+          "end_s": 63.2
+        }
+      ],
+      "duration_s": 50.2,
+      "score": 57.4,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.267,
+        "standalone": 0.85,
+        "intensity": 0.173
+      },
+      "hook": "We're clearing this rubbish.",
+      "hook_desc": "dialogue · THUG WITH CAP",
+      "cliffhanger": "Medium close-up of the Thug with Cap suddenly stiffening, his smug smile dropping as footsteps pound in the darkness.",
+      "why": "hook 0.60, cliff 0.27, stands alone 0.85, intensity 0.17  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 2,
+        "resonance": 32
+      },
+      "logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her."
+    },
+    {
+      "episode": 32,
+      "segments": [
+        {
+          "episode": 32,
+          "start": "00:16.20",
+          "end": "00:49.00",
+          "start_s": 16.2,
+          "end_s": 49.0
+        }
+      ],
+      "duration_s": 32.8,
+      "score": 56.8,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.115
+      },
+      "hook": "Say goodbye to your mother.",
+      "hook_desc": "dialogue · CATHERINE",
+      "cliffhanger": "A disgraced woman?",
+      "why": "hook 0.60, cliff 0.50, stands alone 0.85, intensity 0.12",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 0,
+        "resonance": 6
+      },
+      "logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury."
+    },
+    {
+      "episode": 40,
+      "segments": [
+        {
+          "episode": 40,
+          "start": "01:14.80",
+          "end": "01:50.08",
+          "start_s": 74.8,
+          "end_s": 110.08
+        }
+      ],
+      "duration_s": 35.3,
+      "score": 56.5,
+      "parts": {
+        "hook": 0.467,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.021
+      },
+      "hook": "And its witch will be dead.",
+      "hook_desc": "dialogue · ELDER NOBLEMAN",
+      "cliffhanger": "Tight two-shot profile of Catherine and Rupert clasping hands intimately, gazing into each other's eyes with shared aristocratic vanity.",
+      "why": "hook 0.47, cliff 0.47, stands alone 0.85, intensity 0.02  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 1,
+        "resonance": 25
+      },
+      "logline": "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution—unaware that Alexander's retribution is already at their gates."
+    },
+    {
+      "episode": 41,
+      "segments": [
+        {
+          "episode": 41,
+          "start": "00:31.70",
+          "end": "01:00.50",
+          "start_s": 31.7,
+          "end_s": 60.5
+        }
+      ],
+      "duration_s": 28.8,
+      "score": 55.8,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.185
+      },
+      "hook": "She actually came back to the chapel.",
+      "hook_desc": "dialogue · NOBLEMAN",
+      "cliffhanger": "You needed an entire chapel to feel powerful over one chained woman?",
+      "why": "hook 0.60, cliff 0.50, stands alone 0.85, intensity 0.18",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced—until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault."
+    },
+    {
+      "episode": 26,
+      "segments": [
+        {
+          "episode": 26,
+          "start": "01:36.00",
+          "end": "02:00.88",
+          "start_s": 96.0,
+          "end_s": 120.88
+        }
+      ],
+      "duration_s": 24.9,
+      "score": 55.4,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.733,
+        "standalone": 0.85,
+        "intensity": 0.1
+      },
+      "hook": "Your hand... Let me see your hand.",
+      "hook_desc": "dialogue · DOWAGER DUCHESS",
+      "cliffhanger": "Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliffhanger chord swells, cutting sharply to black.",
+      "why": "hook 0.60, cliff 0.73, stands alone 0.85, intensity 0.10",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity."
+    },
+    {
+      "episode": 39,
+      "segments": [
+        {
+          "episode": 39,
+          "start": "00:29.80",
+          "end": "01:06.90",
+          "start_s": 29.8,
+          "end_s": 66.9
+        }
+      ],
+      "duration_s": 37.1,
+      "score": 54.2,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.167,
+        "standalone": 0.85,
+        "intensity": 0.075
+      },
+      "hook": "Stop!",
+      "hook_desc": "dialogue · ROYAL SENTRY",
+      "cliffhanger": "Today, he comes home.",
+      "why": "hook 0.77, cliff 0.17, stands alone 0.85, intensity 0.07  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 0,
+        "resonance": 12
+      },
+      "logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana."
+    },
+    {
+      "episode": 9,
+      "segments": [
+        {
+          "episode": 9,
+          "start": "01:30.60",
+          "end": "01:55.50",
+          "start_s": 90.6,
+          "end_s": 115.5
+        }
+      ],
+      "duration_s": 24.9,
+      "score": 53.5,
+      "parts": {
+        "hook": 0.767,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.106
+      },
+      "hook": "What rumor?",
+      "hook_desc": "dialogue · BLOND NOBLEMAN",
+      "cliffhanger": "Extreme close-up macro shot of the Blond Nobleman's eye, the flickering fireplace flames dancing across his widening iris as dark dread paralyzes him, holding until the screen cuts to black.",
+      "why": "hook 0.77, cliff 0.47, stands alone 0.85, intensity 0.11",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly igniting dangerous rumors that reach the ears of the Blond Nobleman."
+    },
+    {
+      "episode": 18,
+      "segments": [
+        {
+          "episode": 18,
+          "start": "01:43.80",
+          "end": "02:28.50",
+          "start_s": 103.8,
+          "end_s": 148.5
+        }
+      ],
+      "duration_s": 44.7,
+      "score": 52.8,
+      "parts": {
+        "hook": 0.4,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.04
+      },
+      "hook": "The window!",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "Why would anyone do this?",
+      "why": "hook 0.40, cliff 0.33, stands alone 0.85, intensity 0.04  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 2,
+        "resonance": 32
+      },
+      "logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible."
+    },
+    {
+      "episode": 30,
+      "segments": [
+        {
+          "episode": 30,
+          "start": "00:59.40",
+          "end": "01:25.40",
+          "start_s": 59.4,
+          "end_s": 85.4
+        }
+      ],
+      "duration_s": 26.0,
+      "score": 52.8,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.18
+      },
+      "hook": "We use the law to destroy her.",
+      "hook_desc": "dialogue · ELDER NOBLEMAN",
+      "cliffhanger": "And if she claims she is a healer?",
+      "why": "hook 0.60, cliff 0.33, stands alone 0.85, intensity 0.18",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 0,
+        "resonance": 6
+      },
+      "logline": "When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows."
+    },
+    {
+      "episode": 19,
+      "segments": [
+        {
+          "episode": 19,
+          "start": "01:16.50",
+          "end": "01:59.63",
+          "start_s": 76.5,
+          "end_s": 119.63
+        }
+      ],
+      "duration_s": 43.1,
+      "score": 52.6,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.043
+      },
+      "hook": "My mother is a prisoner in her own house.",
+      "hook_desc": "dialogue · ALEXANDER",
+      "cliffhanger": "Slow cinematic push-in on the couple nestled together in the warm lantern glow. Alexander wraps his arm firmly around Juliana as she closes her eyes in exhausted relief, while his piercing gaze stares resolutely into the darkness, determined to reclaim everything that was stolen.",
+      "why": "hook 0.60, cliff 0.47, stands alone 0.85, intensity 0.04",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat."
+    },
+    {
+      "episode": 39,
+      "segments": [
+        {
+          "episode": 39,
+          "start": "01:05.60",
+          "end": "01:38.41",
+          "start_s": 65.6,
+          "end_s": 98.41
+        }
+      ],
+      "duration_s": 32.8,
+      "score": 52.5,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.033
+      },
+      "hook": "Today, he comes home.",
+      "hook_desc": "dialogue · ALEXANDER",
+      "cliffhanger": "Dramatic push-in close-up directly onto Alexander's scarred, fierce face as he speaks with absolute conviction.",
+      "why": "hook 0.60, cliff 0.47, stands alone 0.85, intensity 0.03",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana."
+    },
+    {
+      "episode": 48,
+      "segments": [
+        {
+          "episode": 48,
+          "start": "00:30.90",
+          "end": "01:20.00",
+          "start_s": 30.9,
+          "end_s": 80.0
+        }
+      ],
+      "duration_s": 49.1,
+      "score": 52.4,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.058
+      },
+      "hook": "Lock it.",
+      "hook_desc": "dialogue · CATHERINE",
+      "cliffhanger": "Exterior shot looking through the dark diamond-paned window frame at Catherine standing motionless in the warm candlelight, staring outward into the night with cold, unyielding ambition as the scene fades to black.",
+      "why": "hook 0.60, cliff 0.47, stands alone 0.85, intensity 0.06",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 0,
+        "resonance": 6
+      },
+      "logline": "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander and Juliana with the aid of Father Thomas."
+    },
+    {
+      "episode": 38,
+      "segments": [
+        {
+          "episode": 38,
+          "start": "00:16.00",
+          "end": "00:43.00",
+          "start_s": 16.0,
+          "end_s": 43.0
+        }
+      ],
+      "duration_s": 27.0,
+      "score": 52.1,
+      "parts": {
+        "hook": 0.4,
+        "cliffhanger": 0.667,
+        "standalone": 0.85,
+        "intensity": 0.075
+      },
+      "hook": "Why?",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "Do you even know what happened to me?",
+      "why": "hook 0.40, cliff 0.67, stands alone 0.85, intensity 0.07",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal the start of Rupert's nuptials and her impending execution."
+    },
+    {
+      "episode": 23,
+      "segments": [
+        {
+          "episode": 23,
+          "start": "00:16.80",
+          "end": "01:15.80",
+          "start_s": 16.8,
+          "end_s": 75.8
+        }
+      ],
+      "duration_s": 59.0,
+      "score": 51.5,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.083
+      },
+      "hook": "Weeks.",
+      "hook_desc": "dialogue · PRUDENCE",
+      "cliffhanger": "What are you saying?",
+      "why": "hook 0.60, cliff 0.50, stands alone 0.85, intensity 0.08",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic—only for someone to arrive at the bedroom door just as she begins concocting the antidote."
+    },
+    {
+      "episode": 49,
+      "segments": [
+        {
+          "episode": 49,
+          "start": "01:31.60",
+          "end": "02:24.75",
+          "start_s": 91.6,
+          "end_s": 144.75
+        }
+      ],
+      "duration_s": 53.2,
+      "score": 51.5,
+      "parts": {
+        "hook": 0.4,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.0
+      },
+      "hook": "You want eyes inside the council chamber itself?",
+      "hook_desc": "dialogue · FATHER THOMAS",
+      "cliffhanger": "Extreme close-up as Father Thomas gently raises his other hand and cups Catherine's cheek tenderly, her hand resting against his chest as she leans into his touch before cutting to black.",
+      "why": "hook 0.40, cliff 0.47, stands alone 0.85, intensity 0.00  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 1,
+        "resonance": 25
+      },
+      "logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance."
+    },
+    {
+      "episode": 10,
+      "segments": [
+        {
+          "episode": 10,
+          "start": "00:14.50",
+          "end": "00:53.30",
+          "start_s": 14.5,
+          "end_s": 53.3
+        }
+      ],
+      "duration_s": 38.8,
+      "score": 51.4,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.06
+      },
+      "hook": "Sit down.",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "Does it hurt?",
+      "why": "hook 0.60, cliff 0.33, stands alone 0.85, intensity 0.06",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 1,
+        "resonance": 7
+      },
+      "logline": "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspoken feelings and scarred pasts finally collide."
+    },
+    {
+      "episode": 22,
+      "segments": [
+        {
+          "episode": 22,
+          "start": "00:22.00",
+          "end": "01:09.50",
+          "start_s": 22.0,
+          "end_s": 69.5
+        }
+      ],
+      "duration_s": 47.5,
+      "score": 51.2,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.06
+      },
+      "hook": "I saved Toby. I can save her.",
+      "hook_desc": "dialogue · LADY JULIANA",
+      "cliffhanger": "And can you keep your eyes and ears where they belong?",
+      "why": "hook 0.60, cliff 0.50, stands alone 0.85, intensity 0.06",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction."
+    },
+    {
+      "episode": 49,
+      "segments": [
+        {
+          "episode": 49,
+          "start": "00:15.80",
+          "end": "00:59.80",
+          "start_s": 15.8,
+          "end_s": 59.8
+        }
+      ],
+      "duration_s": 44.0,
+      "score": 51.0,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.267,
+        "standalone": 0.85,
+        "intensity": 0.056
+      },
+      "hook": "Good. That's what I pay her for.",
+      "hook_desc": "dialogue · CATHERINE",
+      "cliffhanger": "Medium close-up on Father Thomas as he turns his head slightly, scanning the dusty shadowed recesses of the abandoned room.",
+      "why": "hook 0.60, cliff 0.27, stands alone 0.85, intensity 0.06  [strong audience-resonance]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 0,
+        "resonance": 12
+      },
+      "logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance."
+    },
+    {
+      "episode": 17,
+      "segments": [
+        {
+          "episode": 17,
+          "start": "00:18.20",
+          "end": "00:59.80",
+          "start_s": 18.2,
+          "end_s": 59.8
+        }
+      ],
+      "duration_s": 41.6,
+      "score": 50.8,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.021
+      },
+      "hook": "For standing between me and those men.",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "Of them?",
+      "why": "hook 0.60, cliff 0.33, stands alone 0.85, intensity 0.02",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 1,
+        "resonance": 7
+      },
+      "logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth."
+    },
+    {
+      "episode": 13,
+      "segments": [
+        {
+          "episode": 13,
+          "start": "00:24.20",
+          "end": "00:52.60",
+          "start_s": 24.2,
+          "end_s": 52.6
+        }
+      ],
+      "duration_s": 28.4,
+      "score": 50.0,
+      "parts": {
+        "hook": 0.367,
+        "cliffhanger": 0.167,
+        "standalone": 0.85,
+        "intensity": 0.126
+      },
+      "hook": "I would rather face the gallows than watch you hurt yourself for me.",
+      "hook_desc": "dialogue · ALEXANDER",
+      "cliffhanger": "Please...",
+      "why": "hook 0.37, cliff 0.17, stands alone 0.85, intensity 0.13  [poetic-justice arc: wrong + payback]",
+      "audience_resonance": {
+        "injustice_markers": 2,
+        "vindication_markers": 2,
+        "resonance": 38
+      },
+      "logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring."
+    },
+    {
+      "episode": 5,
+      "segments": [
+        {
+          "episode": 5,
+          "start": "00:04.20",
+          "end": "00:45.80",
+          "start_s": 4.2,
+          "end_s": 45.8
+        }
+      ],
+      "duration_s": 41.6,
+      "score": 49.9,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.129
+      },
+      "hook": "Miss Ashcroft.",
+      "hook_desc": "dialogue · LORD ASHCROFT",
+      "cliffhanger": "And the ledger...",
+      "why": "hook 0.60, cliff 0.33, stands alone 0.85, intensity 0.13",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family."
+    },
+    {
+      "episode": 9,
+      "segments": [
+        {
+          "episode": 9,
+          "start": "00:38.00",
+          "end": "01:31.40",
+          "start_s": 38.0,
+          "end_s": 91.4
+        }
+      ],
+      "duration_s": 53.4,
+      "score": 49.8,
+      "parts": {
+        "hook": 0.567,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.041
+      },
+      "hook": "Juliana quickly grabs bundles of dried herbs from the table and turns to Alexander.",
+      "hook_desc": "action",
+      "cliffhanger": "What rumor?",
+      "why": "hook 0.57, cliff 0.50, stands alone 0.85, intensity 0.04",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly igniting dangerous rumors that reach the ears of the Blond Nobleman."
+    },
+    {
+      "episode": 21,
+      "segments": [
+        {
+          "episode": 21,
+          "start": "00:04.20",
+          "end": "00:35.80",
+          "start_s": 4.2,
+          "end_s": 35.8
+        }
+      ],
+      "duration_s": 31.6,
+      "score": 49.7,
+      "parts": {
+        "hook": 0.533,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.1
+      },
+      "hook": "Lady Juliana! Please! You have to help me, Toby is dying!",
+      "hook_desc": "dialogue · PRUDENCE",
+      "cliffhanger": "He is only seven! If you do not come, he will die! You are his only hope, Lady Juliana!",
+      "why": "hook 0.53, cliff 0.33, stands alone 0.85, intensity 0.10",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 1,
+        "resonance": 7
+      },
+      "logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor."
+    },
+    {
+      "episode": 40,
+      "segments": [
+        {
+          "episode": 40,
+          "start": "00:29.00",
+          "end": "01:06.80",
+          "start_s": 29.0,
+          "end_s": 66.8
+        }
+      ],
+      "duration_s": 37.8,
+      "score": 49.1,
+      "parts": {
+        "hook": 0.6,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.071
+      },
+      "hook": "Good.",
+      "hook_desc": "dialogue · LADY HARRINGTON",
+      "cliffhanger": "All entrances are covered?",
+      "why": "hook 0.60, cliff 0.33, stands alone 0.85, intensity 0.07",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution—unaware that Alexander's retribution is already at their gates."
+    },
+    {
+      "episode": 6,
+      "segments": [
+        {
+          "episode": 6,
+          "start": "00:26.50",
+          "end": "01:00.00",
+          "start_s": 26.5,
+          "end_s": 60.0
+        }
+      ],
+      "duration_s": 33.5,
+      "score": 48.9,
+      "parts": {
+        "hook": 0.4,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.05
+      },
+      "hook": "That is it?",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "You are not disappointed?",
+      "why": "hook 0.40, cliff 0.50, stands alone 0.85, intensity 0.05",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 0,
+        "resonance": 6
+      },
+      "logline": "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth."
+    },
+    {
+      "episode": 14,
+      "segments": [
+        {
+          "episode": 14,
+          "start": "00:00.50",
+          "end": "00:25.00",
+          "start_s": 0.5,
+          "end_s": 25.0
+        }
+      ],
+      "duration_s": 24.5,
+      "score": 48.8,
+      "parts": {
+        "hook": 0.567,
+        "cliffhanger": 0.5,
+        "standalone": 0.85,
+        "intensity": 0.16
+      },
+      "hook": "Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring resting in her palm.",
+      "hook_desc": "action",
+      "cliffhanger": "What have they done to you?",
+      "why": "hook 0.57, cliff 0.50, stands alone 0.85, intensity 0.16",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again."
+    },
+    {
+      "episode": 22,
+      "segments": [
+        {
+          "episode": 22,
+          "start": "01:22.50",
+          "end": "02:11.00",
+          "start_s": 82.5,
+          "end_s": 131.0
+        }
+      ],
+      "duration_s": 48.5,
+      "score": 46.0,
+      "parts": {
+        "hook": 0.4,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.08
+      },
+      "hook": "Where is the West Wing?",
+      "hook_desc": "dialogue · LADY JULIANA",
+      "cliffhanger": "Extreme close-up on the Dowager Duchess's terrified, wide eyes staring up as she chokes for air, the haunting realization of poison lingering as dramatic music hits an abrupt, suspenseful cliffhanger.",
+      "why": "hook 0.40, cliff 0.47, stands alone 0.85, intensity 0.08",
+      "audience_resonance": {
+        "injustice_markers": 1,
+        "vindication_markers": 0,
+        "resonance": 6
+      },
+      "logline": "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction."
+    },
+    {
+      "episode": 8,
+      "segments": [
+        {
+          "episode": 8,
+          "start": "00:35.80",
+          "end": "01:18.00",
+          "start_s": 35.8,
+          "end_s": 78.0
+        }
+      ],
+      "duration_s": 42.2,
+      "score": 45.0,
+      "parts": {
+        "hook": 0.4,
+        "cliffhanger": 0.467,
+        "standalone": 0.85,
+        "intensity": 0.0
+      },
+      "hook": "Not yet?",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "Extreme close-up of Juliana's radiant face illuminated by firelight, a peaceful, contented smile spreading across her lips as she looks at him until the shot gently fades out.",
+      "why": "hook 0.40, cliff 0.47, stands alone 0.85, intensity 0.00",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means."
+    },
+    {
+      "episode": 48,
+      "segments": [
+        {
+          "episode": 48,
+          "start": "00:02.40",
+          "end": "00:30.80",
+          "start_s": 2.4,
+          "end_s": 30.8
+        }
+      ],
+      "duration_s": 28.4,
+      "score": 41.0,
+      "parts": {
+        "hook": 0.367,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.08
+      },
+      "hook": "Two words, and that healer's crown rolls right back into the gutter where it belongs.",
+      "hook_desc": "dialogue · CATHERINE",
+      "cliffhanger": "You sent for me, my lady?",
+      "why": "hook 0.37, cliff 0.33, stands alone 0.85, intensity 0.08",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander and Juliana with the aid of Father Thomas."
+    },
+    {
+      "episode": 8,
+      "segments": [
+        {
+          "episode": 8,
+          "start": "00:15.10",
+          "end": "00:36.90",
+          "start_s": 15.1,
+          "end_s": 36.9
+        }
+      ],
+      "duration_s": 21.8,
+      "score": 36.9,
+      "parts": {
+        "hook": 0.4,
+        "cliffhanger": 0.333,
+        "standalone": 0.85,
+        "intensity": 0.0
+      },
+      "hook": "How do you know that?",
+      "hook_desc": "dialogue · JULIANA",
+      "cliffhanger": "Not yet?",
+      "why": "hook 0.40, cliff 0.33, stands alone 0.85, intensity 0.00",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means."
+    },
+    {
+      "episode": 17,
+      "segments": [
+        {
+          "episode": 17,
+          "start": "00:58.80",
+          "end": "01:21.00",
+          "start_s": 58.8,
+          "end_s": 81.0
+        }
+      ],
+      "duration_s": 22.2,
+      "score": 25.2,
+      "parts": {
+        "hook": 0.4,
+        "cliffhanger": 0.0,
+        "standalone": 0.7,
+        "intensity": 0.0
+      },
+      "hook": "Of them?",
+      "hook_desc": "dialogue · ALEXANDER",
+      "cliffhanger": "Juliana nestles deeper into his coat, listening intently to the rapid thudding beneath his chest.",
+      "why": "hook 0.40, cliff 0.00, stands alone 0.70, intensity 0.00",
+      "audience_resonance": {
+        "injustice_markers": 0,
+        "vindication_markers": 0,
+        "resonance": 0
+      },
+      "logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth."
+    }
+  ]
+}

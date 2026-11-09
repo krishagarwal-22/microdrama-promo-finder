@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>Kuku AI Generalist — Problem 1 — Krish Agarwal</title>
+<style>
+  @page { size: A4; margin: 13mm 15mm; }
+  * { box-sizing: border-box; }
+  body { font-family: Georgia, "Times New Roman", serif; color: #1a1a1a; font-size: 9.6pt; line-height: 1.34; margin: 0; }
+  h1 { font-size: 15pt; margin: 0 0 1pt; }
+  .sub { color:#555; font-size: 8.8pt; margin: 0 0 7pt; }
+  h2 { font-size: 10pt; margin: 8pt 0 2pt; border-bottom: 1px solid #ccc; padding-bottom: 1pt; }
+  p { margin: 2pt 0; }
+  ul { margin: 2pt 0 2pt 0; padding-left: 14pt; }
+  li { margin: 1pt 0; }
+  .meta { background:#f5f3ee; border:1px solid #e3ddcf; padding:4pt 8pt; font-size:8.6pt; margin-bottom:6pt; }
+  .k { font-family: "Courier New", monospace; font-size: 8.4pt; background:#f2f2f2; padding:0 2px; }
+  .two { display:flex; gap:13pt; }
+  .two > div { flex:1; }
+  table { border-collapse: collapse; width:100%; font-size: 8.7pt; margin-top:3pt; }
+  td,th { border:1px solid #ddd; padding:2pt 5pt; text-align:left; vertical-align:top; }
+  th { background:#f5f3ee; }
+  .foot { font-size: 8.2pt; color:#666; margin-top:6pt; border-top:1px solid #ddd; padding-top:3pt; }
+  strong { color:#000; }
+  em { color:#333; }
+</style></head>
+<body>
+
+<h1>Find the Promos — a tool that reads a microdrama and picks its best ads</h1>
+<p class="sub">Kuku AI Generalist Assignment · Problem 1 &nbsp;|&nbsp; <strong>Krish Agarwal</strong> · Roll 228170543 · Earth Sciences (BS-MS), IIT Kanpur</p>
+
+<div class="meta">
+<strong>Prototype:</strong> GitHub repo, run steps in README · <em>add link</em> &nbsp;•&nbsp;
+<strong>Raw outputs:</strong> <span class="k">out/</span>, all 50 episodes · <em>add link</em> &nbsp;•&nbsp;
+<strong>Walkthrough:</strong> <em>add 3-min Loom link</em>
+</div>
+
+<h2>Why this problem, and who it serves</h2>
+<p>An editor hand-picks promo moments from every episode of every show, one at a time, and new shows ship weekly — the work grows linearly with the catalogue and is the clearest bottleneck of the three briefs. It also has the richest signal: timestamped screenplays I can read deterministically. Crucially, the audience is well-defined — US microdramas are driven by <strong>women aged ~30–60, documented as especially drawn to romance and revenge narratives</strong> (The Micro-Drama Economy report; TheWrap/Similarweb) — and this show is exactly that: a betrayal-at-the-altar revenge drama. That told me not just <em>where</em> to cut, but <em>which</em> moments this specific audience rewards. The tool proposes a <em>ranked shortlist of promo clips with exact in/out timestamps</em>, turning the editor's job from "watch everything and find" into "review a few and approve."</p>
+
+<h2>What it does</h2>
+<p>Point it at the scripts; it returns, per promo: episode, start/end timestamp of each segment, the <strong>hook</strong> (first 3s), the <strong>cliffhanger</strong> it cuts on, one line on why, and a 0–100 score — ranked across the show. On the pack it found <strong>97 promos across all 50 episodes</strong> in under a second; 28 carry a full wrong→payback arc.</p>
+
+<div class="two">
+<div>
+<h2>How it works</h2>
+<p>Free, deterministic rules do the finding; judgment is isolated so a model can be swapped in:</p>
+<ul>
+<li><strong>Parse</strong> — scripts are regular (type, speaker, emotion tag, in/out time per beat), so no AI is needed to read them.</li>
+<li><strong>Score each beat</strong> — a cheap hook score (hot emotion, shock words, short punchy lines) and cliffhanger score (unanswered question, "cut to black", score swell, episode end).</li>
+<li><strong>Generate candidates</strong> — for each strong hook beat, take the best cliffhanger 20–60s later; the window between is a candidate.</li>
+<li><strong>Judge</strong> — craft rubric (hook 35 · cliffhanger 30 · stands-alone 20 · intensity 15), then an <strong>audience-resonance layer</strong> that lifts injustice→vindication clips (below). <span class="k">--scorer llm</span> swaps the judge for an API model.</li>
+<li><strong>Dedupe &amp; rank</strong> — drop overlaps, keep best ~2/episode, sort all.</li>
+</ul>
+</div>
+<div>
+<h2>Why these numbers (grounded, not guessed)</h2>
+<ul>
+<li><strong>3-second hook:</strong> platforms treat the first 3s as a distinct ranking signal; ~40% of viewers swipe within it and &gt;70% decide whether to stay (TikTok retention data).</li>
+<li><strong>20–60s length:</strong> the platform sweet spot; ~72% of TikToks run under 60s and reach falls off past 90s.</li>
+<li><strong>Cliffhanger:</strong> Loewenstein's <em>information-gap theory</em> (a knowledge gap is a cognitive "itch") and the <em>Zeigarnik effect</em> (unfinished tasks hold tension) — honest caveat: Zeigarnik's recall claim replicates weakly, so I lean on the tension, not memory.</li>
+<li><strong>Which emotions:</strong> Berger &amp; Milkman (2012, <em>JMR</em>) — high-arousal emotions travel, low-arousal sadness doesn't.</li>
+<li><strong>Audience-resonance:</strong> Affective Disposition Theory (Weber et al. 2008, tested on 500+ <em>female</em> serial-drama viewers) — enjoyment peaks on poetic justice: a wronged, liked character vindicated / the villain punished.</li>
+</ul>
+</div>
+</div>
+
+<h2>Approach &amp; scale</h2>
+<p>The expensive judgment (watching) is replaced by cheap rules that do the finding; a model is optional and only re-ranks a short list. The core has <strong>zero dependencies</strong> and runs instantly, so cost is dominated by the optional LLM call. At real volume — say 20 shows/week × 50 episodes, ~2 candidates each — that's ~2,000 short re-rank calls a week on a mini model: cents, not an editor-week. The model is a one-flag swap (<span class="k">PROMO_LLM_MODEL</span> env var) and falls back to the free scorer if no key is set, so a batch never breaks and a stronger model you provide drops straight in. <strong>The human stays in the loop:</strong> the tool proposes ranked clips with exact timestamps; the editor approves or nudges the in/out points.</p>
+
+<h2>How I know it's good — and where it fails</h2>
+<p>I ran it on the full pack and read the top picks against the scripts. <strong>#1 (Ep 38)</strong> opens on "Do you even know what happened to me?" and carries a full wrong→payback arc; <strong>#2 (Ep 18, 02:38–03:12)</strong> opens on "Someone wanted us out." after the arson and cuts to black on a vow of vengeance. Adding the poetic-justice layer re-ranked 11 of the top 15 toward betrayal-and-vindication clips — the arcs this audience is documented to prefer — while keeping the verified-strong clips. Sanity: durations 20–59s (median 38), every episode covered, 36/97 cut on an unanswered question, 28/97 carry a full wrong+payback arc.</p>
+<table>
+<tr><th>Where it picks badly</th><th>Why / fix</th></tr>
+<tr><td>The resonance signal is keyword-based: it can <em>miss</em> poetic justice that is shown, not said. My first (aggressive) weight even buried the excellent Ep 18 clip — I dialled it back until it returned to #2.</td><td>This is the clearest case for the swappable <strong>LLM scorer</strong>, which reads meaning, not keywords. The weight itself is a hand-tuned judgment call.</td></tr>
+<tr><td>"Stands-alone" is coarse (only returns 0.70 or 0.85).</td><td>Rules can't tell if a stranger follows the plot; an LLM judges this far better.</td></tr>
+<tr><td>Purely visual hooks (a silent slap) score low; intensity is a weak differentiator.</td><td>Kept at low weight and flagged; audio/vision would fix it.</td></tr>
+</table>
+
+<h2>Tools used, and one place AI got it wrong</h2>
+<p>I used <strong>Claude</strong> to scaffold the parser/engine and pressure-test the scoring, and to gather the audience and psychology sources (which I then checked). One concrete miss: its first intensity metric scored almost every clip at ~0.10 — too harsh, and the scripts tag emotion mainly on dialogue — so intensity was a near-useless differentiator. Rather than tune it into a fake signal I dropped its weight and documented it. The scoring design, the 20–60s/continuous-clip decisions, grounding the weights in the audience + Affective Disposition Theory, and the hand-tuning of the resonance weight are mine.</p>
+
+<p class="foot">Run: <span class="k">python find_promos.py "&lt;scripts_dir&gt;" --out out</span> → <span class="k">promos_ranked.md</span>, <span class="k">promos.json</span>, <span class="k">per_episode/</span>. Full citations in <span class="k">PSYCH_NOTES.md</span>. The input pack is Kuku's and is not committed or hosted; the demo app takes uploads at runtime.</p>
+
+</body></html>
